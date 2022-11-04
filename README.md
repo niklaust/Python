@@ -1,2 +1,2 @@
 # Python
-This is my notebook to study python
+This is my notebook when I studied python. 
